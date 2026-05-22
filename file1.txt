@@ -1,4 +1,8 @@
 hello this is the first file 
 this is the new line added to the file 
 
+<<<<<<< HEAD
 more content from the main branch added in teh file1. 
+=======
+dark mode added in file 1
+>>>>>>> 60a73b2 (add dark mode)
