@@ -3,3 +3,5 @@ more bug fixes
 
 3 fixes done 
 footer bug fixed
+navbar bug fixed
+toggle button bug fixed
