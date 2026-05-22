@@ -3,3 +3,4 @@ more bug fixes
 
 3 fixes done 
 footer bug fixed
+herosection bug fixed
