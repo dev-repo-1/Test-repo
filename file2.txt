@@ -4,6 +4,6 @@ new line added to test stash
 
 new line for file 1 to test merge 
 
-line from main branch 
-new line added from the master 
-new line from main latest
+new line added from the master
+
+new line form master
