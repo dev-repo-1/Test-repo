@@ -1,0 +1,5 @@
+this is file 2 in teh one folder 
+new line added to test stash 
+
+
+new line for file 1 to test merge

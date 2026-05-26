@@ -1,0 +1,13 @@
+this is the fixes file 
+more bug fixes 
+
+3 fixes done 
+footer bug fixed
+herosection bug fixed
+navbar bug fixed
+toggle button bug fixed
+<<<<<<< Updated upstream
+=======
+
+this is teh latest bug fix 
+>>>>>>> Stashed changes
